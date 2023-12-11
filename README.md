@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @OwaisPaul
+- 👀 I’m interested in Computer and Electrical Engineering...
+- 🌱 I’m currently learning Web Development...
+- 💞️ I’m looking to collaborate on Projects related to web development and plc programming ...
+
+<!---
+OwaisPaul/OwaisPaul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
