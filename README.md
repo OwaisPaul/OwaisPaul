@@ -71,7 +71,7 @@ I enjoy solving real-world problems using modern technologies and love turning i
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn]([(https://www.linkedin.com/in/owaisso))
+- 💼 [LinkedIn](https://www.linkedin.com/in/owaisso?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXvachN%2FyS%2BOBlT4hGW9JRg%3D%3D)
 - 📧 Email: owaispaul@outlook.com
 
 
